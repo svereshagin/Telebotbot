@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid ""
+"Hello! Proceed with the registration\nYou can skip the process with /cancel command.\n"
+"Also you can return to registration with\n /registration or /start commands"
+msgstr ""
+"Bonjour! Procédez à l'enregistrement\nVous pouvez passer le processus avec la commande /cancel.\n"
+"Vous pouvez également revenir à l'enregistrement avec\n les commandes /registration ou /start."
+
+#: перевести
+msgid "What is your name?"
+msgstr "Bonjour! Quel est votre nom?"
+
+msgid "Choose_sex"
+msgstr "Choisissez_sexe"
+
+msgid "Data received"
+msgstr "Données reçues"
+
+#: already_registered
+msgid "You are already registered."
+msgstr "Vous êtes déjà enregistré."
+
+#: get_me
+msgid "You do not have an account. Proceed with registration by /add_me."
+msgstr "Vous n'avez pas de compte. Procédez à l'enregistrement avec /add_me."
+
+#: get_me2
+msgid "Your account already exists."
+msgstr "Votre compte existe déjà."
+
+#: cancel_command
+msgid "Your information has been cleared. Type /start to begin again."
+msgstr "Vos informations ont été effacées. Tapez /start pour recommencer."
+
+#: ask_last_name
+msgid "What is your last name?"
+msgstr "Quel est votre nom de famille ?"
+
+#: ask_sex
+msgid "What is your sex? (male/female)"
+msgstr "Quel est votre sexe ? (homme/femme)"
+
+#: sex_get_response_error
+msgid "Please enter 'male' or 'female'."
+msgstr "Veuillez entrer 'homme' ou 'femme'."
+
+#: ask_age
+msgid "What is your age?"
+msgstr "Quel âge avez-vous ?"
+
+#: ask_email
+msgid "What is your email?"
+msgstr "Quelle est votre adresse email ?"
+
+#: ask_city
+msgid "What is your city?"
+msgstr "Quelle est votre ville ?"
+
+#: header
+msgid "Thank you for sharing! Here is a summary of your information:\n"
+msgstr "Merci pour votre partage ! Voici un résumé de vos informations :\n"
+
+#: first_name
+msgid "First Name: {first_name}\n"
+msgstr "Prénom : {first_name}\n"
+
+#: last_name
+msgid "Last Name: {last_name}\n"
+msgstr "Nom : {last_name}\n"
+
+#: sex
+msgid "Sex: {sex}\n"
+msgstr "Sexe : {sex}\n"
+
+#: age
+msgid "Age: {age}\n"
+msgstr "Âge : {age}\n"
+
+#: email
+msgid "Email: {email}\n"
+msgstr "Email : {email}\n"
+
+#: city
+msgid "City: {city}"
+msgstr "Ville : {city}"
+
+#: age_incorrect
+msgid "Please enter a valid number for age."
+msgstr "Veuillez entrer un nombre valide pour l'âge."
+
+#: language_changed
+msgid "Language has been changed"
+msgstr "La langue a été modifiée"
+
+#: sex choose function
+msgid "male"
+msgstr "masculin"
+
+msgid "female"
+msgstr "féminin"
+
+msgid "yes"
+msgstr "si"
+
+msgid "no"
+msgstr "no"
+
+msgid "rules"
+msgstr "rules"
